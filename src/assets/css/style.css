@@ -1283,4 +1283,26 @@ ul.list-type_none {
 	background-color: #aae34c;
 	color: #fff;
 	border-radius: 25px;
+	padding-right: 30px;
+}
+.contact_content-underline {
+	width: 100%;
+	border-bottom-width: 2px;
+	padding-bottom: 3px;
+	border-bottom-style: dotted;
+}
+.contact_border-left {
+	width: 100%;
+	border-left-width: 1px;
+	border-left-style: solid;
+	padding-left: 15px;
+	border-left-color: rgba(0, 0, 0, 0.4);
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.contact_bg-slider {
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 300px;
+	background-size: cover;
 }
