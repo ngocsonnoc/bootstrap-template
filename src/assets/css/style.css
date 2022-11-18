@@ -885,6 +885,9 @@ header .logo {
 	.notfound_banner-margin {
 		margin: 1rem;
 	}
+	.news_font-banner {
+		font-size: 1rem;
+	}
 }
 
 /*product__banner end*/
@@ -1357,4 +1360,10 @@ ul.list-type_none {
 		row-gap: 1rem;
 		align-items: center;
 	}
+}
+.news_font-banner {
+	font-size: 2rem;
+}
+.news_font-bold {
+	font-weight: bold;
 }
