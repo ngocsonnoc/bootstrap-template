@@ -1109,3 +1109,9 @@ footer .footer-col-1 .footer-col .footer-col-r a img {
 .partner-section img {
 	max-width: 100%;
 }
+@media (min-width: 767px) and (max-width: 920px) {
+	.distribution__cooperate-content {
+		flex-direction: column;
+		row-gap: 2rem;
+	}
+}
