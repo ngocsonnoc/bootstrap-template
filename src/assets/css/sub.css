@@ -696,3 +696,13 @@ footer .footer-col-1 .footer-col .footer-col-r a img {
 .news_font-bold {
 	font-weight: bold;
 }
+
+@media (max-width: 700px) {
+	.distribution_img-respontb {
+		display: none;
+	}
+	.distribution_content-respontb {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+}
